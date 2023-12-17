@@ -1,0 +1,25 @@
+.addColWrapper{
+    width:100%;
+    text-align: center;
+}
+.addCol{
+    max-width: 800px;
+    margin:30px auto;
+    display: flex;
+}
+.addCol input{
+    width: 80%;
+    padding:20px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    font-size: 18px;
+}
+.addCol button{
+    width: 20%;
+    padding:20px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    background-color: red;
+    color: #fff;
+    font-size: 18px;
+}

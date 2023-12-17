@@ -1,0 +1,31 @@
+.todo-list-wrapper{
+    max-width: 800px;
+    margin: auto;
+}
+
+.addedColList{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0px;
+
+    &:last-child{
+        border: none;
+    }
+}
+.addedColClick{
+    width: 80%;
+}
+.addedColClick input{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.addedColList button{
+    border: none;
+    background-color: red;
+    color:#fff;
+    padding:10px 20px;
+}

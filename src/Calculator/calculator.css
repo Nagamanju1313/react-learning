@@ -1,0 +1,23 @@
+.calculatorWrapper{
+    max-width: 500px;
+    margin: auto;
+    margin-top: 200px;
+}
+.calculatorWrapper input[type="text"]{
+    width: 90%;
+    padding:20px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    display: block;
+    font-size: 20px;
+}
+.calculatorWrapper input[type="button"]{
+    width: 100%;
+    padding:20px;
+    border-radius: 0;
+    border: none;
+    font-size: 20px;
+}
+.calculatorWrapper table{
+    width: 100%;
+}

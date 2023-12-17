@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+          "id": 1,
+          "checked": true,
+          "item": "Walk"
+        },
+        {
+          "id": 2,
+          "checked": false,
+          "item": "Read"
+        },
+        {
+          "id": 3,
+          "checked": true,
+          "item": "Write"
+        }
+      ]    
+}
